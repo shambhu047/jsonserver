@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Shreya" },
+    { "id": 1, "title": "Shreya" }, 
     { "id": 2, "title": "Santosh" },
     { "id": 3, "title": "Dhandu" }
   ],
