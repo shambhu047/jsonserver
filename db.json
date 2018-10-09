@@ -9,9 +9,17 @@
     { "id": 2, "body": "some comment", "postId": 1 },
     { "id": 3, "body": "some comment", "postId": 1 },
     { "id": 4, "body": "some comment", "postId": 1 },
-    { "id": 5, "body": "some comment", "postId": 1 }
+    { "id": 5, "body": "some comment", "postId": 1 },
+    { "id": 6, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "articles": [
+    {
+      "id": "article1",
+      "title": "First Article",
+      "content": "This is just a first article"
+    }
+  ]
 }
