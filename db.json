@@ -19,6 +19,11 @@
       "id": "article1",
       "title": "1st Article",
       "content": "This is just the first article"
+    },
+    {
+      "id": "article2",
+      "title": "2nd Article",
+      "content": "This is just the first article"
     }
   ]
 }
