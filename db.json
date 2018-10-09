@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Shreya" }, 
+    { "id": 1, "title": "Shreya" },
     { "id": 2, "title": "Santosh" },
     { "id": 3, "title": "Dhandu" }
   ],
@@ -14,5 +14,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "articles": [
+    {
+      "id": "article1",
+      "title": "First Article",
+      "content": "This is just a first article"
+    }
+  ]
 }
